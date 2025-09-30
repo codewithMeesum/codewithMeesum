@@ -29,9 +29,20 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
-<a href="https://instagram.com/mesum_mukhtar" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.leetcode.com/c2ktwf5gnt" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://instagram.com/mesum_mukhtar" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.leetcode.com/c2ktwf5gnt" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="mailto:mesummukhtar3@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mesummukhtar/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
+
 
 ---
 
