@@ -22,8 +22,7 @@
 - 🌱 I’m currently learning **AI, Cybersecurity, and Networking**  
 - 💬 Ask me about **C, C++, Java, JavaScript, Python**  
 
-
-- ⚡ Fun fact: **The journey continues ! **
+   The journey continues ! 
 
 ---
 
