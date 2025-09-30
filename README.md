@@ -18,8 +18,8 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 I’m currently working on **my Studies**  
-- 🌱 I’m currently learning **AI, Cybersecurity, and Networking**  
+- 🔭 I’m currently working on **Mini Projects**  
+- 🌱 I’m currently learning **AI, Cybersecurity, and Networking** 
 - 💬 Ask me about **C, C++, Java, JavaScript, Python**  
 
 ---
