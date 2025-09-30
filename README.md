@@ -25,69 +25,13 @@
 ---
 ## 🏅 Certificates  
 
-<p align="center">
+| | | | |
+|---|---|---|---|
+| <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGMFZxlTPOgYg/profile-treasury-image-shrink_800_800/B4DZmQb6WVHYAY-/0/1759064863309?e=1759870800&v=beta&t=OuCnJRbbxlbrFCBcp-9bozc855IuRNXiLfjmj5S6gmU" width="200"/> | <img src="https://media.licdn.com/dms/image/v2/D4E2DAQFlONOffvgiEA/profile-treasury-image-shrink_800_800/B4EZjDBcyjGUAo-/0/1755618602025?e=1759870800&v=beta&t=dUE0F2_XxoleTnH8f-KTP_VeUplC_Br4Q4BydG-NDiM" width="200"/> | <img src="https://media.licdn.com/dms/image/v2/D4D2DAQEGt3KmDc6E3w/profile-treasury-image-shrink_800_800/B4DZjyjoaaIYAY-/0/1756416111679?e=1759870800&v=beta&t=eO9b9y6aI9Xzh5kIAenxjBOP6fxWN2s9W2IDcb7Urt0" width="200"/> | <img src="https://media.licdn.com/dms/image/v2/D4D2DAQEdxMD14voENw/profile-treasury-image-shrink_800_800/B4DZj_ERziIcAY-/0/1756625971466?e=1759870800&v=beta&t=KkQa1Ow3pMR7gwpFjDESnv7VrmHKFqJ9c35kvNvS-cM" width="200"/> |
+| <img src="https://media.licdn.com/dms/image/v2/D562DAQGsRQ7bcKFBKg/profile-treasury-image-shrink_800_800/B56ZjHsJ5QHUAY-/0/1755697036360?e=1759870800&v=beta&t=p6yB7t2xUcR26rhFNKmh3N2J4LkvHejyF7hgEAoHGRk" width="200"/> | <img src="https://media.licdn.com/dms/image/v2/D4D2DAQHb-nhT-T23Dg/profile-treasury-image-shrink_800_800/B4DZj58a7mIgAc-/0/1756540024683?e=1759870800&v=beta&t=dOhl4s8hm-4warGepslKp4zJh3iAv2BIugpDCQMPOCU" width="200"/> | <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGmOHUZZwdRbQ/profile-treasury-image-shrink_800_800/B4DZj9DxZWGsAY-/0/1756592283755?e=1759870800&v=beta&t=NhA6AW2TUjn8IJIIrivDWmMU0N1LFpVMxU_2cDxfouE" width="200"/> | <img src="https://media.licdn.com/dms/image/v2/D4D2DAQHUrBnSFmptlQ/profile-treasury-image-shrink_800_800/B4DZjeAzlDH4AY-/0/1756071413804?e=1759870800&v=beta&t=IJM91tCgeG6UezlCxTDEKb-X8aWS-x_nxah2sfY-HA4" width="200"/> |
+| <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGsGBg9vCCptA/profile-treasury-image-shrink_800_800/B4DZji_cZRH4Ac-/0/1756154945428?e=1759870800&v=beta&t=HhV2z96edclY5Y5_nKePIikoxWLmM2sEfLU1MfWDCuo" width="200"/> | <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFmK38AI0LHLg/profile-treasury-image-shrink_800_800/B4DZi1WkZ9GkAY-/0/1755389257400?e=1759870800&v=beta&t=kkuaYUKxB0BIEZvrP3Rydh21IEO0dDFVUzyPwHSXREE" width="200"/> | <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGNhIgS25wbuQ/profile-treasury-image-shrink_800_800/B4DZjZPZXhHsAY-/0/1755991356901?e=1759870800&v=beta&t=yoKMAvxRILrA4xOkGRhM6X0A8bQKZln1StfnpDpJNss" width="200"/> | <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFM972wo-vM-A/profile-treasury-image-shrink_800_800/B4DZi1YbECHsAY-/0/1755389743167?e=1759870800&v=beta&t=DhDBqpm51ndOBt3TZDN3c8C2cwSeQtJ26uno4acmHnU" width="200"/> |
+| <img src="https://media.licdn.com/dms/image/v2/D562DAQG6XoHkARkdOQ/profile-treasury-image-shrink_800_800/B56ZjoiGvEHcAY-/0/1756247918514?e=1759870800&v=beta&t=wemTthmvmHFHROFz-4pn7NIzXiePj0lwGeadbCmWHc4" width="200"/> | <img src="https://media.licdn.com/dms/image/v2/D4D2DAQEFxLiS6mEr9g/profile-treasury-image-shrink_800_800/B4DZjt8wxIHsAc-/0/1756338792464?e=1759870800&v=beta&t=vRqYXoGmuXQQSAZIHQrhxjq_Ylnl9-fjzNB5PEI3Rf4" width="200"/> | <img src="https://media.licdn.com/dms/image/v2/D4D2DAQHJtxn48Qub5Q/profile-treasury-image-shrink_800_800/B4DZi.h8HEHwAc-/0/1755543256642?e=1759870800&v=beta&t=LWICx0aG-CSho3sI7rDWcbCamx8EyOMB8sSteSoguRU" width="200"/> | <img src="https://media.licdn.com/dms/image/v2/D4D2DAQH7UHXL3cbR0A/profile-treasury-image-shrink_800_800/B4DZkLiMN9G8Ag-/0/1756835142134?e=1759870800&v=beta&t=qZ9fjR0-EX2wdwtnkKGbqDQWlEuK2k-cxkWUGhFKW80" width="200"/> |
 
-  <!-- Row 1 -->
-  <a href="https://media.licdn.com/dms/image/v2/D4D2DAQGMFZxlTPOgYg/profile-treasury-image-shrink_800_800/B4DZmQb6WVHYAY-/0/1759064863309?e=1759870800&v=beta&t=OuCnJRbbxlbrFCBcp-9bozc855IuRNXiLfjmj5S6gmU">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGMFZxlTPOgYg/profile-treasury-image-shrink_800_800/B4DZmQb6WVHYAY-/0/1759064863309?e=1759870800&v=beta&t=OuCnJRbbxlbrFCBcp-9bozc855IuRNXiLfjmj5S6gmU" alt="Machine Learning Concepts" width="230"/>
-  </a>
-  <a href="https://media.licdn.com/dms/image/v2/D4E2DAQFlONOffvgiEA/profile-treasury-image-shrink_800_800/B4EZjDBcyjGUAo-/0/1755618602025?e=1759870800&v=beta&t=dUE0F2_XxoleTnH8f-KTP_VeUplC_Br4Q4BydG-NDiM">
-    <img src="https://media.licdn.com/dms/image/v2/D4E2DAQFlONOffvgiEA/profile-treasury-image-shrink_800_800/B4EZjDBcyjGUAo-/0/1755618602025?e=1759870800&v=beta&t=dUE0F2_XxoleTnH8f-KTP_VeUplC_Br4Q4BydG-NDiM" alt="Computer Hardware Basics" width="230"/>
-  </a>
-  <a href="https://media.licdn.com/dms/image/v2/D4D2DAQEGt3KmDc6E3w/profile-treasury-image-shrink_800_800/B4DZjyjoaaIYAY-/0/1756416111679?e=1759870800&v=beta&t=eO9b9y6aI9Xzh5kIAenxjBOP6fxWN2s9W2IDcb7Urt0">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQEGt3KmDc6E3w/profile-treasury-image-shrink_800_800/B4DZjyjoaaIYAY-/0/1756416111679?e=1759870800&v=beta&t=eO9b9y6aI9Xzh5kIAenxjBOP6fxWN2s9W2IDcb7Urt0" alt="Create Images with AI" width="230"/>
-  </a>
-
-  <!-- Row 2 -->
-  <a href="https://media.licdn.com/dms/image/v2/D4D2DAQEdxMD14voENw/profile-treasury-image-shrink_800_800/B4DZj_ERziIcAY-/0/1756625971466?e=1759870800&v=beta&t=KkQa1Ow3pMR7gwpFjDESnv7VrmHKFqJ9c35kvNvS-cM">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQEdxMD14voENw/profile-treasury-image-shrink_800_800/B4DZj_ERziIcAY-/0/1756625971466?e=1759870800&v=beta&t=KkQa1Ow3pMR7gwpFjDESnv7VrmHKFqJ9c35kvNvS-cM" alt="AI Prompt Engineering" width="230"/>
-  </a>
-  <a href="https://media.licdn.com/dms/image/v2/D562DAQGsRQ7bcKFBKg/profile-treasury-image-shrink_800_800/B56ZjHsJ5QHUAY-/0/1755697036360?e=1759870800&v=beta&t=p6yB7t2xUcR26rhFNKmh3N2J4LkvHejyF7hgEAoHGRk">
-    <img src="https://media.licdn.com/dms/image/v2/D562DAQGsRQ7bcKFBKg/profile-treasury-image-shrink_800_800/B56ZjHsJ5QHUAY-/0/1755697036360?e=1759870800&v=beta&t=p6yB7t2xUcR26rhFNKmh3N2J4LkvHejyF7hgEAoHGRk" alt="Digital Awareness" width="230"/>
-  </a>
-  <a href="https://media.licdn.com/dms/image/v2/D4D2DAQHb-nhT-T23Dg/profile-treasury-image-shrink_800_800/B4DZj58a7mIgAc-/0/1756540024683?e=1759870800&v=beta&t=dOhl4s8hm-4warGepslKp4zJh3iAv2BIugpDCQMPOCU">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQHb-nhT-T23Dg/profile-treasury-image-shrink_800_800/B4DZj58a7mIgAc-/0/1756540024683?e=1759870800&v=beta&t=dOhl4s8hm-4warGepslKp4zJh3iAv2BIugpDCQMPOCU" alt="UX & Design Thinking" width="230"/>
-  </a>
-
-  <!-- Row 3 -->
-  <a href="https://media.licdn.com/dms/image/v2/D4D2DAQGmOHUZZwdRbQ/profile-treasury-image-shrink_800_800/B4DZj9DxZWGsAY-/0/1756592283755?e=1759870800&v=beta&t=NhA6AW2TUjn8IJIIrivDWmMU0N1LFpVMxU_2cDxfouE">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGmOHUZZwdRbQ/profile-treasury-image-shrink_800_800/B4DZj9DxZWGsAY-/0/1756592283755?e=1759870800&v=beta&t=NhA6AW2TUjn8IJIIrivDWmMU0N1LFpVMxU_2cDxfouE" alt="Generative AI Concepts" width="230"/>
-  </a>
-  <a href="https://media.licdn.com/dms/image/v2/D4D2DAQHUrBnSFmptlQ/profile-treasury-image-shrink_800_800/B4DZjeAzlDH4AY-/0/1756071413804?e=1759870800&v=beta&t=IJM91tCgeG6UezlCxTDEKb-X8aWS-x_nxah2sfY-HA4">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQHUrBnSFmptlQ/profile-treasury-image-shrink_800_800/B4DZjeAzlDH4AY-/0/1756071413804?e=1759870800&v=beta&t=IJM91tCgeG6UezlCxTDEKb-X8aWS-x_nxah2sfY-HA4" alt="Google Ads" width="230"/>
-  </a>
-  <a href="https://media.licdn.com/dms/image/v2/D4D2DAQGsGBg9vCCptA/profile-treasury-image-shrink_800_800/B4DZji_cZRH4Ac-/0/1756154945428?e=1759870800&v=beta&t=HhV2z96edclY5Y5_nKePIikoxWLmM2sEfLU1MfWDCuo">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGsGBg9vCCptA/profile-treasury-image-shrink_800_800/B4DZji_cZRH4Ac-/0/1756154945428?e=1759870800&v=beta&t=HhV2z96edclY5Y5_nKePIikoxWLmM2sEfLU1MfWDCuo" alt="AI Concepts" width="230"/>
-  </a>
-
-  <!-- Row 4 -->
-  <a href="https://media.licdn.com/dms/image/v2/D4D2DAQFmK38AI0LHLg/profile-treasury-image-shrink_800_800/B4DZi1WkZ9GkAY-/0/1755389257400?e=1759870800&v=beta&t=kkuaYUKxB0BIEZvrP3Rydh21IEO0dDFVUzyPwHSXREE">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFmK38AI0LHLg/profile-treasury-image-shrink_800_800/B4DZi1WkZ9GkAY-/0/1755389257400?e=1759870800&v=beta&t=kkuaYUKxB0BIEZvrP3Rydh21IEO0dDFVUzyPwHSXREE" alt="Cybersecurity Basics" width="230"/>
-  </a>
-  <a href="https://media.licdn.com/dms/image/v2/D4D2DAQGNhIgS25wbuQ/profile-treasury-image-shrink_800_800/B4DZjZPZXhHsAY-/0/1755991356901?e=1759870800&v=beta&t=yoKMAvxRILrA4xOkGRhM6X0A8bQKZln1StfnpDpJNss">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGNhIgS25wbuQ/profile-treasury-image-shrink_800_800/B4DZjZPZXhHsAY-/0/1755991356901?e=1759870800&v=beta&t=yoKMAvxRILrA4xOkGRhM6X0A8bQKZln1StfnpDpJNss" alt="Data Science Intro" width="230"/>
-  </a>
-  <a href="https://media.licdn.com/dms/image/v2/D4D2DAQFM972wo-vM-A/profile-treasury-image-shrink_800_800/B4DZi1YbECHsAY-/0/1755389743167?e=1759870800&v=beta&t=DhDBqpm51ndOBt3TZDN3c8C2cwSeQtJ26uno4acmHnU">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFM972wo-vM-A/profile-treasury-image-shrink_800_800/B4DZi1YbECHsAY-/0/1755389743167?e=1759870800&v=beta&t=DhDBqpm51ndOBt3TZDN3c8C2cwSeQtJ26uno4acmHnU" alt="Modern AI" width="230"/>
-  </a>
-
-  <!-- Row 5 -->
-  <a href="https://media.licdn.com/dms/image/v2/D562DAQG6XoHkARkdOQ/profile-treasury-image-shrink_800_800/B56ZjoiGvEHcAY-/0/1756247918514?e=1759870800&v=beta&t=wemTthmvmHFHROFz-4pn7NIzXiePj0lwGeadbCmWHc4">
-    <img src="https://media.licdn.com/dms/image/v2/D562DAQG6XoHkARkdOQ/profile-treasury-image-shrink_800_800/B56ZjoiGvEHcAY-/0/1756247918514?e=1759870800&v=beta&t=wemTthmvmHFHROFz-4pn7NIzXiePj0lwGeadbCmWHc4" alt="Generative AI" width="230"/>
-  </a>
-  <a href="https://media.licdn.com/dms/image/v2/D4D2DAQEFxLiS6mEr9g/profile-treasury-image-shrink_800_800/B4DZjt8wxIHsAc-/0/1756338792464?e=1759870800&v=beta&t=vRqYXoGmuXQQSAZIHQrhxjq_Ylnl9-fjzNB5PEI3Rf4">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQEFxLiS6mEr9g/profile-treasury-image-shrink_800_800/B4DZjt8wxIHsAc-/0/1756338792464?e=1759870800&v=beta&t=vRqYXoGmuXQQSAZIHQrhxjq_Ylnl9-fjzNB5PEI3Rf4" alt="AI for Everyday Tasks" width="230"/>
-  </a>
-  <a href="https://media.licdn.com/dms/image/v2/D4D2DAQHJtxn48Qub5Q/profile-treasury-image-shrink_800_800/B4DZi.h8HEHwAc-/0/1755543256642?e=1759870800&v=beta&t=LWICx0aG-CSho3sI7rDWcbCamx8EyOMB8sSteSoguRU">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQHJtxn48Qub5Q/profile-treasury-image-shrink_800_800/B4DZi.h8HEHwAc-/0/1755543256642?e=1759870800&v=beta&t=LWICx0aG-CSho3sI7rDWcbCamx8EyOMB8sSteSoguRU" alt="Leadership Skills" width="230"/>
-  </a>
-
-  <!-- Row 6 -->
-  <a href="https://media.licdn.com/dms/image/v2/D4D2DAQH7UHXL3cbR0A/profile-treasury-image-shrink_800_800/B4DZkLiMN9G8Ag-/0/1756835142134?e=1759870800&v=beta&t=qZ9fjR0-EX2wdwtnkKGbqDQWlEuK2k-cxkWUGhFKW80">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQH7UHXL3cbR0A/profile-treasury-image-shrink_800_800/B4DZkLiMN9G8Ag-/0/1756835142134?e=1759870800&v=beta&t=qZ9fjR0-EX2wdwtnkKGbqDQWlEuK2k-cxkWUGhFKW80" alt="Build Free Website with WordPress" width="230"/>
-  </a>
-
-</p>
 
 The journey continues ! 
 
