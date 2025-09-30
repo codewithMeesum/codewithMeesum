@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Meesum</h1>
-<h3 align="center">🚀 AI Enthusiast | 💻 Developer | 📊 Exploring Cybersecurity & Networking</h3>
+<h3 align="center"> AI Enthusiast | 💻 Developer | 📊 Exploring Cybersecurity & Networking</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codewithmeesum&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -55,10 +55,10 @@
 
 ---
 
-### 🚀 Featured Projects
-- [AI Chatbot](https://github.com/codewithmeesum/AI-Chatbot) – NLP-powered chatbot built with Python & Transformers  
+### Featured Projects
+
 - [Portfolio Website](https://github.com/codewithmeesum/codewithmeesum.github.io) – Personal website showcasing my work  
-*(add more if you want)*
+
 
 ---
 
@@ -82,10 +82,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithmeesum&theme=react-dark" alt="activity graph" />
 </p>
 
----
 
-### 💡 Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
-</p>
+
+
 
