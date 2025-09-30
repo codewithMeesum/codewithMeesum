@@ -22,7 +22,8 @@
 - 🌱 I’m currently learning **AI, Cybersecurity, and Networking**  
 - 💬 Ask me about **C, C++, Java, JavaScript, Python**  
 - 📫 Reach me at **mesummukhtar3@gmail.com**  
-- 📄 Know about my experiences [Portfolio](https://codewithmeesum.github.io/)  
+- 📄 Know about my experiences [Portfolio](https://codewithmeesum.github.io/Portfolio/)
+
 - ⚡ Fun fact: **The journey continues...**
 
 ---
