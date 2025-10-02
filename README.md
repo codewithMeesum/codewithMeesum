@@ -18,9 +18,9 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 I’m currently working on **Mini Projects**  
-- 🌱 I’m currently learning **AI, Cybersecurity, and Networking** 
-- 💬 Ask me about **C, C++, Java, JavaScript, Python**  
+-  I’m currently working on **Mini Projects**  
+-  I’m currently learning **AI, Cybersecurity, and Networking** 
+-  Ask me about **C, C++, Java, JavaScript, Python**  
 
 ---
 ## 🏅 Certificates  
