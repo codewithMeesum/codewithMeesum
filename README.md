@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi, I'm Mesum</h1>
-<h3 align="center"> AI Enthusiast | 💻 Developer | 📊 Exploring Cybersecurity & Networking</h3>
+<h3 align="center"> AI Enthusiast | Developer | Exploring Cybersecurity & Networking</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codewithmeesum&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
