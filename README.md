@@ -2,7 +2,7 @@
 ![Header](https://github.com/codewithMeesum/Currency-Converter-in-C-/raw/main/1754857524264.jpg)
 
 
-<h1 align="center">Hi 👋, I'm Meesum</h1>
+<h1 align="center">Hi, I'm Mesum</h1>
 <h3 align="center"> AI Enthusiast | 💻 Developer | 📊 Exploring Cybersecurity & Networking</h3>
 
 <p align="center">
