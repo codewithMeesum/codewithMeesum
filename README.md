@@ -57,7 +57,7 @@
 
 ### Featured Projects
 
-Personal website showcasing my work  : https://codewithmeesum.github.io/
+Personal website showcasing my work  : https://mesummukhtar.lovable.app/
 
 
 ---
