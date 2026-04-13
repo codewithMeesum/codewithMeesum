@@ -6,7 +6,7 @@
 </p>
 
 
-### 👨‍💻 About Me  
+### 👨‍💻 Stuffs I'm doing rn :  
 - 🔭 I’m currently working on **Mini Projects**  
 - 🌱 I’m currently learning **AI, Cybersecurity, and Networking** 
 - 💬 Ask me about **C, C++, Java, JavaScript, Python**  
