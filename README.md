@@ -1,15 +1,10 @@
 <h1 align="center">Hi, I'm Mesum</h1>
-<h3 align="center"> AI Enthusiast | Developer | Exploring Cybersecurity & Networking</h3>
+<h3 align="center"> Future AI Engineer | Building AI Powered SaaS | Generative AI & Prompt Engineering | Empowering Youth Through Applied AI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codewithmeesum&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithmeesum&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
 
 ### 👨‍💻 About Me  
 - 🔭 I’m currently working on **Mini Projects**  
@@ -63,19 +58,13 @@ Personal website showcasing my work  : https://mesummukhtar.lovable.app/
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithmeesum&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmeesum&theme=tokyonight" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithmeesum&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
 
----
 
 ### 📈 Contribution Graph
 <p align="center">
