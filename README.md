@@ -6,7 +6,7 @@
 </p>
 
 
-### 🌐 Connect with Me  
+###  Connect with Me  
 <p align="left">
 <a href="https://instagram.com/mesum_mukhtar" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
@@ -26,12 +26,12 @@
 
 ## 🛠️ Tech Stack & Tools
 
-#### 💻 Languages
+#### Languages
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,js,html,css" />
 </p>
 
-#### 🤖 AI / ML / Data
+#### AI / ML / Data
 <p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -41,12 +41,12 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-#### 🌐 Web & Backend
+#### Web & Backend
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind,flask,fastapi" />
 </p>
 
-#### 🗄️ Databases & Cloud
+#### Databases & Cloud
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase,vercel,netlify,git,github,vscode" />
 </p>
@@ -54,14 +54,18 @@
 
 ---
 
-### Featured Projects
+<div align="center">
 
-Personal website showcasing my work  : https://mesummukhtar.lovable.app/
+### Personal Portfolio
 
+<a href="https://mesummukhtar.lovable.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit_My_Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a" />
+</a>
 
 ---
+</div>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 
 <p align="center">
@@ -70,7 +74,7 @@ Personal website showcasing my work  : https://mesummukhtar.lovable.app/
 
 
 
-### 📈 Contribution Graph
+### Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithmeesum&theme=react-dark" alt="activity graph" />
 </p>
