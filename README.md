@@ -6,12 +6,6 @@
 </p>
 
 
-### 👨‍💻 Stuffs I'm doing rn :  
-- 🔭 I’m currently working on **Mini Projects**  
-- 🌱 I’m currently learning **AI, Cybersecurity, and Networking** 
-- 💬 Ask me about **C, C++, Java, JavaScript, Python**  
-
-
 ### 🌐 Connect with Me  
 <p align="left">
 <a href="https://instagram.com/mesum_mukhtar" target="_blank">
@@ -30,23 +24,33 @@
 
 
 
-### 🛠️ Languages and Tools
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+## 🛠️ Tech Stack & Tools
+
+#### 💻 Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,js,html,css" />
 </p>
+
+#### 🤖 AI / ML / Data
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="[https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+#### 🌐 Web & Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind,flask,fastapi" />
+</p>
+
+#### 🗄️ Databases & Cloud
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase,vercel,netlify,git,github,vscode" />
+</p>
+
 
 ---
 
@@ -77,7 +81,9 @@ Personal website showcasing my work  : https://mesummukhtar.lovable.app/
   <img src="https://streak-stats.demolab.com?user=codewithMeesum&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
 
+### ⭐ "The best way to predict the future is to build it." ⭐
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
 
 
 
