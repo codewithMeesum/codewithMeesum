@@ -1,10 +1,30 @@
-<h1 align="center"> About Me</h1>
-<h3 align="center"> Future AI Engineer | Building AI Powered SaaS | Generative AI & Prompt Engineering | Empowering Youth Through Applied AI</h3>
+<!-- PROFESSIONAL HEADER -->
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithmeesum&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<h3>Future AI Engineer · Builder of Intelligent Systems</h3>
+
+<p>
+  <em>Building AI-Powered SaaS &nbsp;•&nbsp; Generative AI &amp; Prompt Engineering &nbsp;•&nbsp; Empowering Youth Through Applied AI</em>
 </p>
 
+<!-- TYPING ANIMATION -->
+<a href="https://github.com/codewithmeesum">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=850&lines=Future+AI+Engineer;Building+AI-Powered+SaaS;Generative+AI+and+Prompt+Engineering;Empowering+Youth+Through+Applied+AI" alt="Typing SVG" />
+</a>
+
+<!-- PROFILE BADGES -->
+<p>
+  <a href="https://github.com/codewithmeesum?tab=followers">
+    <img src="https://img.shields.io/github/followers/codewithmeesum?label=Followers&style=for-the-badge&color=blueviolet&labelColor=000000" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=codewithmeesum&label=Profile+Views&color=000000&style=for-the-badge" />
+  <a href="https://github.com/codewithmeesum?tab=repositories">
+    <img src="https://img.shields.io/badge/Open%20to-Collaborate-success?style=for-the-badge&logo=github&logoColor=white&color=000000&labelColor=000000" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20SaaS-000000?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000" />
+</p>
+
+</div>
 
 ###  Connect with Me  
 <p align="left">
