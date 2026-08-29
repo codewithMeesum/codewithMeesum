@@ -85,27 +85,9 @@
 ---
 </div>
 
-### GitHub Stats
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmeesum&theme=tokyonight" alt="streak" />
-</p>
-
-
-
-### Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithmeesum&theme=react-dark" alt="activity graph" />
-</p>
-
----
- 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=codewithMeesum&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-
-
-### ⭐ "The best way to predict the future is to build it." ⭐
+  ### ⭐ "The best way to predict the future is to build it." ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
 
